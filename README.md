@@ -2,3 +2,5 @@
 Depth search algorithm visualization in C++
 
 Not optimized
+
+ez
